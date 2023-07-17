@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 </br>
 
 ## Have a great day! 🤍
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=Aaqib925&&show_icons=true&theme=tokyonight)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=aimonimran&&show_icons=true&theme=tokyonight)
 <!--
 **aimonimran/aimonimran** is a ✨ _special_ ✨ repository be
