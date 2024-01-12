@@ -1,14 +1,5 @@
 ### Hi there 👋, Aimon Here.
 <br>
-<p align="center">
-	<a href="https://pk.linkedin.com/in/aimon-imran-420b091a6"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>  
-  <a href="https://github.com/aimonimran"><img src="https://img.shields.io/github/followers/aimonimran.svg?label=GitHub&style=social" alt="GitHub"></a>  
-</p>
-<a href="https://github.com/aimonimran">
-    <img src="https://komarev.com/ghpvc/?username=aimonimran">
-</a>
-
-<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Full Stack Engineer at AppTycoons.
