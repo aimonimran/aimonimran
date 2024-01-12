@@ -2,12 +2,9 @@
 <br>
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as Full Stack Engineer at AppTycoons.
 - 👨‍💻 Passionate about Web and Mobile Development.
-- 📫 How to reach me: aimon.imran@gmail.com or
-                      <a href="https://pk.linkedin.com/in/aimon-imran-420b091a6">Linkedin</a>
+- 📫 How to reach me: aimon.imran@gmail.com
 - ⚡ Fun fact: I think alot 😄
-- Student of Bachelors of Computer Science 😎.
 ## 🔧 Technologies
 
 </br>
