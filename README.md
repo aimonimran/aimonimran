@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 👨‍💻 Passionate about Web and Mobile Development.
-- 📫 How to reach me: aimon.imran@gmail.com
+- 📫 How to reach me: aimon.imran@gmail.com or view my Linkedin profile: https://www.linkedin.com/in/aimon-imran/
 - ⚡ Fun fact: I think alot 😄
 ## 🔧 Technologies
 
