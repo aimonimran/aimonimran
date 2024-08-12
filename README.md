@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,stackoverflow,prisma,nodejs,react,mysql,postgres,linux,docker,git,nginx,unity,redis,nestjs,materialui,laravel,graphql,electron,gitlab,vscode&theme=light&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,stackoverflow,prisma,nodejs,react,mysql,postgres,docker,git,redis,nestjs,materialui,vscode&theme=light&perline=15" />
   </a>
 </p> -->
 </br>
