@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 </br>
 
-![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,apollo,graphql,prisma,laravel,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,unity,stackoverflow,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,electron,materialui,tailwind,nodejs,express,nestjs,graphql,prisma,mysql,postgres,linux,bash,git,nginx,redis,docker,kubernetes,gitlab,stackoverflow,vscode&theme=dark&perline=15)
 
 <!-- <p align="center">
   <a href="https://skillicons.dev">
