@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 </br>
 
 ## Have a great day! 🤍
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=aimonimran&&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=aimonimran&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aimonimran&layout=compact&theme=tokyonight&hide_border=true)
+
 <!--
 **aimonimran/aimonimran** is a ✨ _special_ ✨ repository be
